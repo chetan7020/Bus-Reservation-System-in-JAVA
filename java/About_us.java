@@ -9,6 +9,7 @@ public class About_us
 		System.out.println("||Shantanu Kakade \t||\t20CO225		||	1910510094|| ");
 		System.out.println("||Atharv Kale \t\t||\t20CO226		||	1910510095||");
 		System.out.println("||Chetan Patil \t\t||\t20CO267		||	1910510232||");
+		System.out.println("||Charu Patil \t\t||\t20CO268		||	1910510233||");
 		System.out.println("====================================================================");
 	}
 	
